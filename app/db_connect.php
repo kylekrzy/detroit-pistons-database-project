@@ -1,9 +1,9 @@
 <?php
 $host = "localhost";
 $user = "root";
-$password = "root";
+$password = "root";   // change if your MAMP password is different
 $dbname = "DetroitPistonsDB";
-$port = 8889;         // MAMP MySQL port
+$port = 8889;
 
 $conn = new mysqli($host, $user, $password, $dbname, $port);
 
