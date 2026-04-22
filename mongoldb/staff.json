@@ -1,0 +1,188 @@
+[
+  {
+    "_id": 101,
+    "f_name": "Trajan",
+    "l_name": "Langdon",
+    "dob": "1976-05-13",
+    "sex": "M",
+    "email": "trajan.langdon@pistons.com",
+    "job_title": "President / General Manager",
+    "salary": 2500000,
+    "department": {
+      "dept_id": 1,
+      "dept_name": "Basketball Operations"
+    },
+    "supervisor": null
+  },
+  {
+    "_id": 102,
+    "f_name": "J.B.",
+    "l_name": "Bickerstaff",
+    "dob": "1979-03-10",
+    "sex": "M",
+    "email": "jb.bickerstaff@pistons.com",
+    "job_title": "Head Coach",
+    "salary": 8000000,
+    "department": {
+      "dept_id": 2,
+      "dept_name": "Coaching Staff"
+    },
+    "supervisor": {
+      "staff_id": 101,
+      "f_name": "Trajan",
+      "l_name": "Langdon"
+    }
+  },
+  {
+    "_id": 103,
+    "f_name": "Jarrett",
+    "l_name": "Jack",
+    "dob": "1983-10-28",
+    "sex": "M",
+    "email": "jarrett.jack@pistons.com",
+    "job_title": "Assistant Coach",
+    "salary": 500000,
+    "department": {
+      "dept_id": 2,
+      "dept_name": "Coaching Staff"
+    },
+    "supervisor": {
+      "staff_id": 102,
+      "f_name": "J.B.",
+      "l_name": "Bickerstaff"
+    }
+  },
+  {
+    "_id": 104,
+    "f_name": "Fred",
+    "l_name": "Vinson",
+    "dob": "1970-08-18",
+    "sex": "M",
+    "email": "fred.vinson@pistons.com",
+    "job_title": "Assistant Coach",
+    "salary": 480000,
+    "department": {
+      "dept_id": 2,
+      "dept_name": "Coaching Staff"
+    },
+    "supervisor": {
+      "staff_id": 102,
+      "f_name": "J.B.",
+      "l_name": "Bickerstaff"
+    }
+  },
+  {
+    "_id": 105,
+    "f_name": "Josh",
+    "l_name": "Estes",
+    "dob": "1984-04-11",
+    "sex": "M",
+    "email": "josh.estes@pistons.com",
+    "job_title": "Assistant Coach",
+    "salary": 420000,
+    "department": {
+      "dept_id": 3,
+      "dept_name": "Player Development"
+    },
+    "supervisor": {
+      "staff_id": 102,
+      "f_name": "J.B.",
+      "l_name": "Bickerstaff"
+    }
+  },
+  {
+    "_id": 106,
+    "f_name": "Alex",
+    "l_name": "Garland",
+    "dob": "1987-06-14",
+    "sex": "M",
+    "email": "alex.garland@pistons.com",
+    "job_title": "Trainer",
+    "salary": 210000,
+    "department": {
+      "dept_id": 9,
+      "dept_name": "Medical / Training"
+    },
+    "supervisor": {
+      "staff_id": 101,
+      "f_name": "Trajan",
+      "l_name": "Langdon"
+    }
+  },
+  {
+    "_id": 107,
+    "f_name": "Jordan",
+    "l_name": "Sabourin",
+    "dob": "1989-01-08",
+    "sex": "M",
+    "email": "jordan.sabourin@pistons.com",
+    "job_title": "Strength and Conditioning",
+    "salary": 185000,
+    "department": {
+      "dept_id": 9,
+      "dept_name": "Medical / Training"
+    },
+    "supervisor": {
+      "staff_id": 106,
+      "f_name": "Alex",
+      "l_name": "Garland"
+    }
+  },
+  {
+    "_id": 108,
+    "f_name": "Greg",
+    "l_name": "Smith",
+    "dob": "1982-09-22",
+    "sex": "M",
+    "email": "greg.smith@pistons.com",
+    "job_title": "Assistant Coach",
+    "salary": 390000,
+    "department": {
+      "dept_id": 3,
+      "dept_name": "Player Development"
+    },
+    "supervisor": {
+      "staff_id": 102,
+      "f_name": "J.B.",
+      "l_name": "Bickerstaff"
+    }
+  },
+  {
+    "_id": 109,
+    "f_name": "Luke",
+    "l_name": "Walton",
+    "dob": "1980-03-28",
+    "sex": "M",
+    "email": "luke.walton@pistons.com",
+    "job_title": "Assistant Coach",
+    "salary": 450000,
+    "department": {
+      "dept_id": 4,
+      "dept_name": "Performance Analysis"
+    },
+    "supervisor": {
+      "staff_id": 102,
+      "f_name": "J.B.",
+      "l_name": "Bickerstaff"
+    }
+  },
+  {
+    "_id": 110,
+    "f_name": "Jerome",
+    "l_name": "Allen",
+    "dob": "1973-01-28",
+    "sex": "M",
+    "email": "jerome.allen@pistons.com",
+    "job_title": "Assistant Coach",
+    "salary": 400000,
+    "department": {
+      "dept_id": 10,
+      "dept_name": "Media Relations"
+    },
+    "supervisor": {
+      "staff_id": 102,
+      "f_name": "J.B.",
+      "l_name": "Bickerstaff"
+    }
+  }
+]
