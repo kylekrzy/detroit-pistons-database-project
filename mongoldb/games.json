@@ -1,0 +1,162 @@
+[
+  {
+    "_id": 401,
+    "game_date": "2025-10-22",
+    "opponent": "Chicago Bulls",
+    "home_away": "Away",
+    "result": "Loss",
+    "score": "111-115",
+    "attendance": 20917,
+    "venue": {
+      "venue_id": 302,
+      "venue_name": "United Center",
+      "city": "Chicago",
+      "state": "Illinois",
+      "capacity": 20917
+    }
+  },
+  {
+    "_id": 402,
+    "game_date": "2025-10-24",
+    "opponent": "Houston Rockets",
+    "home_away": "Away",
+    "result": "Win",
+    "score": "115-111",
+    "attendance": 18055,
+    "venue": {
+      "venue_id": 303,
+      "venue_name": "Toyota Center",
+      "city": "Houston",
+      "state": "Texas",
+      "capacity": 18055
+    }
+  },
+  {
+    "_id": 403,
+    "game_date": "2025-10-26",
+    "opponent": "Boston Celtics",
+    "home_away": "Home",
+    "result": "Win",
+    "score": "119-113",
+    "attendance": 19112,
+    "venue": {
+      "venue_id": 301,
+      "venue_name": "Little Caesars Arena",
+      "city": "Detroit",
+      "state": "Michigan",
+      "capacity": 20000
+    }
+  },
+  {
+    "_id": 404,
+    "game_date": "2025-10-27",
+    "opponent": "Cleveland Cavaliers",
+    "home_away": "Home",
+    "result": "Loss",
+    "score": "95-116",
+    "attendance": 18876,
+    "venue": {
+      "venue_id": 301,
+      "venue_name": "Little Caesars Arena",
+      "city": "Detroit",
+      "state": "Michigan",
+      "capacity": 20000
+    }
+  },
+  {
+    "_id": 405,
+    "game_date": "2025-10-29",
+    "opponent": "Orlando Magic",
+    "home_away": "Home",
+    "result": "Win",
+    "score": "135-116",
+    "attendance": 19040,
+    "venue": {
+      "venue_id": 301,
+      "venue_name": "Little Caesars Arena",
+      "city": "Detroit",
+      "state": "Michigan",
+      "capacity": 20000
+    }
+  },
+  {
+    "_id": 406,
+    "game_date": "2025-11-01",
+    "opponent": "Dallas Mavericks",
+    "home_away": "Home",
+    "result": "Win",
+    "score": "122-110",
+    "attendance": 18955,
+    "venue": {
+      "venue_id": 301,
+      "venue_name": "Little Caesars Arena",
+      "city": "Detroit",
+      "state": "Michigan",
+      "capacity": 20000
+    }
+  },
+  {
+    "_id": 407,
+    "game_date": "2025-11-03",
+    "opponent": "Memphis Grizzlies",
+    "home_away": "Away",
+    "result": "Win",
+    "score": "114-106",
+    "attendance": 17740,
+    "venue": {
+      "venue_id": 306,
+      "venue_name": "FedExForum",
+      "city": "Memphis",
+      "state": "Tennessee",
+      "capacity": 17794
+    }
+  },
+  {
+    "_id": 408,
+    "game_date": "2025-11-05",
+    "opponent": "Utah Jazz",
+    "home_away": "Home",
+    "result": "Win",
+    "score": "114-103",
+    "attendance": 18790,
+    "venue": {
+      "venue_id": 301,
+      "venue_name": "Little Caesars Arena",
+      "city": "Detroit",
+      "state": "Michigan",
+      "capacity": 20000
+    }
+  },
+  {
+    "_id": 409,
+    "game_date": "2025-11-07",
+    "opponent": "Brooklyn Nets",
+    "home_away": "Away",
+    "result": "Win",
+    "score": "125-107",
+    "attendance": 17180,
+    "venue": {
+      "venue_id": 307,
+      "venue_name": "Barclays Center",
+      "city": "Brooklyn",
+      "state": "New York",
+      "capacity": 17732
+    }
+  },
+  {
+    "_id": 410,
+    "game_date": "2025-11-09",
+    "opponent": "Philadelphia 76ers",
+    "home_away": "Away",
+    "result": "Win",
+    "score": "111-108",
+    "attendance": 19860,
+    "venue": {
+      "venue_id": 308,
+      "venue_name": "Wells Fargo Center",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "capacity": 20478
+    }
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "_id": 901,
+    "department": {
+      "dept_id": 5,
+      "dept_name": "Ticketing"
+    },
+    "record_type": "Ticket Revenue",
+    "amount": 290,
+    "record_date": "2025-10-26",
+    "description": "Two lower-bowl tickets sold for Celtics home game",
+    "status": "Approved"
+  },
+  {
+    "_id": 902,
+    "department": {
+      "dept_id": 6,
+      "dept_name": "Merchandising"
+    },
+    "record_type": "Merchandise Revenue",
+    "amount": 220,
+    "record_date": "2025-10-26",
+    "description": "Two home jerseys sold",
+    "status": "Approved"
+  },
+  {
+    "_id": 903,
+    "department": {
+      "dept_id": 6,
+      "dept_name": "Merchandising"
+    },
+    "record_type": "Merchandise Revenue",
+    "amount": 30,
+    "record_date": "2025-10-27",
+    "description": "One snapback cap sold",
+    "status": "Approved"
+  },
+  {
+    "_id": 904,
+    "department": {
+      "dept_id": 7,
+      "dept_name": "Finance"
+    },
+    "record_type": "Payroll Expense",
+    "amount": 8000000,
+    "record_date": "2025-10-31",
+    "description": "Head coach annual salary allocation",
+    "status": "Pending"
+  },
+  {
+    "_id": 905,
+    "department": {
+      "dept_id": 8,
+      "dept_name": "Arena Operations"
+    },
+    "record_type": "Arena Expense",
+    "amount": 12500,
+    "record_date": "2025-11-01",
+    "description": "Lighting and maintenance repairs",
+    "status": "Approved"
+  },
+  {
+    "_id": 906,
+    "department": {
+      "dept_id": 1,
+      "dept_name": "Basketball Operations"
+    },
+    "record_type": "Travel Expense",
+    "amount": 8400,
+    "record_date": "2025-11-03",
+    "description": "Road trip transportation and hotel costs",
+    "status": "Approved"
+  },
+  {
+    "_id": 907,
+    "department": {
+      "dept_id": 6,
+      "dept_name": "Merchandising"
+    },
+    "record_type": "Inventory Expense",
+    "amount": 6500,
+    "record_date": "2025-11-05",
+    "description": "Restock for winter merchandise line",
+    "status": "Pending"
+  },
+  {
+    "_id": 908,
+    "department": {
+      "dept_id": 10,
+      "dept_name": "Media Relations"
+    },
+    "record_type": "Media Expense",
+    "amount": 3200,
+    "record_date": "2025-11-06",
+    "description": "Press event and equipment rental",
+    "status": "Approved"
+  },
+  {
+    "_id": 909,
+    "department": {
+      "dept_id": 4,
+      "dept_name": "Performance Analysis"
+    },
+    "record_type": "Analytics Expense",
+    "amount": 2100,
+    "record_date": "2025-11-08",
+    "description": "Performance tracking software renewal",
+    "status": "Canceled"
+  },
+  {
+    "_id": 910,
+    "department": {
+      "dept_id": 3,
+      "dept_name": "Player Development"
+    },
+    "record_type": "Development Expense",
+    "amount": 4700,
+    "record_date": "2025-11-09",
+    "description": "Player development equipment purchase",
+    "status": "Approved"
+  }
+]

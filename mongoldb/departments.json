@@ -1,0 +1,102 @@
+[
+  {
+    "_id": 1,
+    "dept_name": "Basketball Operations",
+    "manager": {
+      "staff_id": 101,
+      "f_name": "Trajan",
+      "l_name": "Langdon"
+    },
+    "manager_start_date": "2024-07-01"
+  },
+  {
+    "_id": 2,
+    "dept_name": "Coaching Staff",
+    "manager": {
+      "staff_id": 102,
+      "f_name": "J.B.",
+      "l_name": "Bickerstaff"
+    },
+    "manager_start_date": "2024-07-03"
+  },
+  {
+    "_id": 3,
+    "dept_name": "Player Development",
+    "manager": {
+      "staff_id": 105,
+      "f_name": "Josh",
+      "l_name": "Estes"
+    },
+    "manager_start_date": "2024-07-05"
+  },
+  {
+    "_id": 4,
+    "dept_name": "Performance Analysis",
+    "manager": {
+      "staff_id": 109,
+      "f_name": "Luke",
+      "l_name": "Walton"
+    },
+    "manager_start_date": "2024-07-08"
+  },
+  {
+    "_id": 5,
+    "dept_name": "Ticketing",
+    "manager": {
+      "staff_id": 101,
+      "f_name": "Trajan",
+      "l_name": "Langdon"
+    },
+    "manager_start_date": "2024-07-10"
+  },
+  {
+    "_id": 6,
+    "dept_name": "Merchandising",
+    "manager": {
+      "staff_id": 101,
+      "f_name": "Trajan",
+      "l_name": "Langdon"
+    },
+    "manager_start_date": "2024-07-12"
+  },
+  {
+    "_id": 7,
+    "dept_name": "Finance",
+    "manager": {
+      "staff_id": 101,
+      "f_name": "Trajan",
+      "l_name": "Langdon"
+    },
+    "manager_start_date": "2024-07-15"
+  },
+  {
+    "_id": 8,
+    "dept_name": "Arena Operations",
+    "manager": {
+      "staff_id": 101,
+      "f_name": "Trajan",
+      "l_name": "Langdon"
+    },
+    "manager_start_date": "2024-07-18"
+  },
+  {
+    "_id": 9,
+    "dept_name": "Medical / Training",
+    "manager": {
+      "staff_id": 106,
+      "f_name": "Alex",
+      "l_name": "Garland"
+    },
+    "manager_start_date": "2024-07-20"
+  },
+  {
+    "_id": 10,
+    "dept_name": "Media Relations",
+    "manager": {
+      "staff_id": 110,
+      "f_name": "Jerome",
+      "l_name": "Allen"
+    },
+    "manager_start_date": "2024-07-22"
+  }
+]

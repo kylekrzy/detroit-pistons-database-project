@@ -1,0 +1,340 @@
+[
+  {
+    "_id": 201,
+    "f_name": "Jalen",
+    "l_name": "Duren",
+    "dob": "2003-11-18",
+    "height": 82,
+    "weight": 250,
+    "position": "C",
+    "jersey_num": 0,
+    "salary": 8100000,
+    "contract": {
+      "start": "2024-07-01",
+      "end": "2028-06-30"
+    },
+    "performances": [
+      {
+        "perf_id": 502,
+        "game_id": 401,
+        "game_date": "2025-10-22",
+        "opponent": "Chicago Bulls",
+        "home_away": "Away",
+        "result": "Loss",
+        "score": "111-115",
+        "pts": 19,
+        "rebounds": 11,
+        "assists": 3,
+        "steals": 1,
+        "blocks": 2,
+        "mins_played": 33,
+        "fouls": 3,
+        "turnovers": 2
+      }
+    ]
+  },
+  {
+    "_id": 202,
+    "f_name": "Cade",
+    "l_name": "Cunningham",
+    "dob": "2001-09-25",
+    "height": 78,
+    "weight": 220,
+    "position": "G",
+    "jersey_num": 2,
+    "salary": 13500000,
+    "contract": {
+      "start": "2024-07-01",
+      "end": "2028-06-30"
+    },
+    "performances": [
+      {
+        "perf_id": 501,
+        "game_id": 401,
+        "game_date": "2025-10-22",
+        "opponent": "Chicago Bulls",
+        "home_away": "Away",
+        "result": "Loss",
+        "score": "111-115",
+        "pts": 28,
+        "rebounds": 6,
+        "assists": 9,
+        "steals": 2,
+        "blocks": 0,
+        "mins_played": 36,
+        "fouls": 2,
+        "turnovers": 3
+      },
+      {
+        "perf_id": 505,
+        "game_id": 403,
+        "game_date": "2025-10-26",
+        "opponent": "Boston Celtics",
+        "home_away": "Home",
+        "result": "Win",
+        "score": "119-113",
+        "pts": 25,
+        "rebounds": 5,
+        "assists": 8,
+        "steals": 1,
+        "blocks": 0,
+        "mins_played": 35,
+        "fouls": 2,
+        "turnovers": 4
+      }
+    ]
+  },
+  {
+    "_id": 203,
+    "f_name": "Ronald",
+    "l_name": "Holland II",
+    "dob": "2005-07-07",
+    "height": 80,
+    "weight": 206,
+    "position": "F",
+    "jersey_num": 5,
+    "salary": 6100000,
+    "contract": {
+      "start": "2024-07-01",
+      "end": "2029-06-30"
+    },
+    "performances": [
+      {
+        "perf_id": 506,
+        "game_id": 404,
+        "game_date": "2025-10-27",
+        "opponent": "Cleveland Cavaliers",
+        "home_away": "Home",
+        "result": "Loss",
+        "score": "95-116",
+        "pts": 18,
+        "rebounds": 6,
+        "assists": 2,
+        "steals": 1,
+        "blocks": 1,
+        "mins_played": 30,
+        "fouls": 4,
+        "turnovers": 1
+      }
+    ]
+  },
+  {
+    "_id": 204,
+    "f_name": "Paul",
+    "l_name": "Reed",
+    "dob": "1999-06-14",
+    "height": 81,
+    "weight": 210,
+    "position": "F",
+    "jersey_num": 7,
+    "salary": 7600000,
+    "contract": {
+      "start": "2024-07-09",
+      "end": "2026-06-30"
+    },
+    "performances": [
+      {
+        "perf_id": 509,
+        "game_id": 407,
+        "game_date": "2025-11-03",
+        "opponent": "Memphis Grizzlies",
+        "home_away": "Away",
+        "result": "Win",
+        "score": "114-106",
+        "pts": 15,
+        "rebounds": 6,
+        "assists": 2,
+        "steals": 2,
+        "blocks": 1,
+        "mins_played": 29,
+        "fouls": 3,
+        "turnovers": 1
+      }
+    ]
+  },
+  {
+    "_id": 205,
+    "f_name": "Caris",
+    "l_name": "LeVert",
+    "dob": "1994-08-25",
+    "height": 79,
+    "weight": 205,
+    "position": "G",
+    "jersey_num": 8,
+    "salary": 9000000,
+    "contract": {
+      "start": "2025-07-07",
+      "end": "2027-06-30"
+    },
+    "performances": [
+      {
+        "perf_id": 507,
+        "game_id": 405,
+        "game_date": "2025-10-29",
+        "opponent": "Orlando Magic",
+        "home_away": "Home",
+        "result": "Win",
+        "score": "135-116",
+        "pts": 21,
+        "rebounds": 5,
+        "assists": 5,
+        "steals": 2,
+        "blocks": 0,
+        "mins_played": 37,
+        "fouls": 3,
+        "turnovers": 2
+      }
+    ]
+  },
+  {
+    "_id": 206,
+    "f_name": "Ausar",
+    "l_name": "Thompson",
+    "dob": "2003-01-30",
+    "height": 79,
+    "weight": 205,
+    "position": "G-F",
+    "jersey_num": 9,
+    "salary": 8500000,
+    "contract": {
+      "start": "2024-07-01",
+      "end": "2028-06-30"
+    },
+    "performances": [
+      {
+        "perf_id": 504,
+        "game_id": 402,
+        "game_date": "2025-10-24",
+        "opponent": "Houston Rockets",
+        "home_away": "Away",
+        "result": "Win",
+        "score": "115-111",
+        "pts": 14,
+        "rebounds": 7,
+        "assists": 4,
+        "steals": 2,
+        "blocks": 1,
+        "mins_played": 34,
+        "fouls": 2,
+        "turnovers": 3
+      }
+    ]
+  },
+  {
+    "_id": 207,
+    "f_name": "Tobias",
+    "l_name": "Harris",
+    "dob": "1992-07-15",
+    "height": 80,
+    "weight": 226,
+    "position": "F",
+    "jersey_num": 12,
+    "salary": 12000000,
+    "contract": {
+      "start": "2024-07-08",
+      "end": "2026-06-30"
+    },
+    "performances": [
+      {
+        "perf_id": 503,
+        "game_id": 402,
+        "game_date": "2025-10-24",
+        "opponent": "Houston Rockets",
+        "home_away": "Away",
+        "result": "Win",
+        "score": "115-111",
+        "pts": 16,
+        "rebounds": 7,
+        "assists": 2,
+        "steals": 1,
+        "blocks": 0,
+        "mins_played": 31,
+        "fouls": 4,
+        "turnovers": 2
+      },
+      {
+        "perf_id": 508,
+        "game_id": 406,
+        "game_date": "2025-11-01",
+        "opponent": "Dallas Mavericks",
+        "home_away": "Home",
+        "result": "Win",
+        "score": "122-110",
+        "pts": 17,
+        "rebounds": 8,
+        "assists": 3,
+        "steals": 1,
+        "blocks": 1,
+        "mins_played": 32,
+        "fouls": 4,
+        "turnovers": 2
+      }
+    ]
+  },
+  {
+    "_id": 208,
+    "f_name": "Chaz",
+    "l_name": "Lanier",
+    "dob": "2001-12-19",
+    "height": 75,
+    "weight": 206,
+    "position": "G",
+    "jersey_num": 20,
+    "salary": 2200000,
+    "contract": {
+      "start": "2025-06-26",
+      "end": "2029-06-30"
+    },
+    "performances": []
+  },
+  {
+    "_id": 209,
+    "f_name": "Daniss",
+    "l_name": "Jenkins",
+    "dob": "2001-08-17",
+    "height": 76,
+    "weight": 165,
+    "position": "G",
+    "jersey_num": 24,
+    "salary": 1900000,
+    "contract": {
+      "start": "2026-02-09",
+      "end": "2026-06-30"
+    },
+    "performances": []
+  },
+  {
+    "_id": 210,
+    "f_name": "Marcus",
+    "l_name": "Sasser",
+    "dob": "2000-09-21",
+    "height": 73,
+    "weight": 195,
+    "position": "G",
+    "jersey_num": 25,
+    "salary": 4200000,
+    "contract": {
+      "start": "2024-07-01",
+      "end": "2026-06-30"
+    },
+    "performances": [
+      {
+        "perf_id": 510,
+        "game_id": 408,
+        "game_date": "2025-11-05",
+        "opponent": "Utah Jazz",
+        "home_away": "Home",
+        "result": "Win",
+        "score": "114-103",
+        "pts": 13,
+        "rebounds": 2,
+        "assists": 7,
+        "steals": 1,
+        "blocks": 0,
+        "mins_played": 27,
+        "fouls": 2,
+        "turnovers": 2
+      }
+    ]
+  }
+]

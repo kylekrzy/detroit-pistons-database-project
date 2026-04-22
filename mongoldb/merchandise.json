@@ -1,0 +1,202 @@
+[
+  {
+    "_id": 701,
+    "item_name": "Pistons Home Jersey",
+    "category": "Apparel",
+    "price": 110,
+    "quantity": 75,
+    "sales": [
+      {
+        "sale_id": 801,
+        "quantity_sold": 2,
+        "total_price": 220,
+        "sale_date": "2025-10-26",
+        "purchaser": {
+          "fname": "John",
+          "lname": "Miller",
+          "email": "john.miller@email.com"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 702,
+    "item_name": "Pistons Away Jersey",
+    "category": "Apparel",
+    "price": 110,
+    "quantity": 60,
+    "sales": [
+      {
+        "sale_id": 808,
+        "quantity_sold": 1,
+        "total_price": 110,
+        "sale_date": "2025-11-08",
+        "purchaser": {
+          "fname": "Rachel",
+          "lname": "Adams",
+          "email": "rachel.adams@email.com"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 703,
+    "item_name": "Team Hoodie",
+    "category": "Apparel",
+    "price": 70,
+    "quantity": 90,
+    "sales": [
+      {
+        "sale_id": 804,
+        "quantity_sold": 1,
+        "total_price": 70,
+        "sale_date": "2025-11-01",
+        "purchaser": {
+          "fname": "Tina",
+          "lname": "Lawson",
+          "email": "tina.lawson@email.com"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 704,
+    "item_name": "Snapback Cap",
+    "category": "Accessories",
+    "price": 30,
+    "quantity": 120,
+    "sales": [
+      {
+        "sale_id": 802,
+        "quantity_sold": 1,
+        "total_price": 30,
+        "sale_date": "2025-10-27",
+        "purchaser": {
+          "fname": "Emily",
+          "lname": "Carter",
+          "email": "emily.carter@email.com"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 705,
+    "item_name": "Beanie",
+    "category": "Accessories",
+    "price": 25,
+    "quantity": 80,
+    "sales": [
+      {
+        "sale_id": 810,
+        "quantity_sold": 2,
+        "total_price": 50,
+        "sale_date": "2025-11-12",
+        "purchaser": {
+          "fname": "Nina",
+          "lname": "Foster",
+          "email": "nina.foster@email.com"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 706,
+    "item_name": "Courtside Towel",
+    "category": "Souvenir",
+    "price": 18,
+    "quantity": 200,
+    "sales": [
+      {
+        "sale_id": 803,
+        "quantity_sold": 3,
+        "total_price": 54,
+        "sale_date": "2025-10-29",
+        "purchaser": {
+          "fname": "Marcus",
+          "lname": "Reed",
+          "email": "marcus.reed@email.com"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 707,
+    "item_name": "Mini Basketball",
+    "category": "Souvenir",
+    "price": 22,
+    "quantity": 150,
+    "sales": [
+      {
+        "sale_id": 805,
+        "quantity_sold": 2,
+        "total_price": 44,
+        "sale_date": "2025-11-03",
+        "purchaser": {
+          "fname": "Derek",
+          "lname": "White",
+          "email": "derek.white@email.com"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 708,
+    "item_name": "Water Bottle",
+    "category": "Accessories",
+    "price": 20,
+    "quantity": 110,
+    "sales": [
+      {
+        "sale_id": 806,
+        "quantity_sold": 1,
+        "total_price": 20,
+        "sale_date": "2025-11-05",
+        "purchaser": {
+          "fname": "Olivia",
+          "lname": "Green",
+          "email": "olivia.green@email.com"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 709,
+    "item_name": "Team Backpack",
+    "category": "Accessories",
+    "price": 55,
+    "quantity": 50,
+    "sales": [
+      {
+        "sale_id": 809,
+        "quantity_sold": 1,
+        "total_price": 55,
+        "sale_date": "2025-11-10",
+        "purchaser": {
+          "fname": "Kevin",
+          "lname": "Brooks",
+          "email": "kevin.brooks@email.com"
+        }
+      }
+    ]
+  },
+  {
+    "_id": 710,
+    "item_name": "Player Poster Pack",
+    "category": "Collectibles",
+    "price": 15,
+    "quantity": 140,
+    "sales": [
+      {
+        "sale_id": 807,
+        "quantity_sold": 4,
+        "total_price": 60,
+        "sale_date": "2025-11-07",
+        "purchaser": {
+          "fname": "Sam",
+          "lname": "Porter",
+          "email": "sam.porter@email.com"
+        }
+      }
+    ]
+  }
+]

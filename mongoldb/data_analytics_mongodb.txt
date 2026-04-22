@@ -1,0 +1,61 @@
+use("DetroitPistonsDB")
+
+
+
+Question 1: Show all players and their jersey numbers.
+
+db["players"].find({}, { _id: 1, f_name: 1, l_name: 1, jersey_num: 1 })
+
+
+
+Question 2: Show all players ordered by salary from highest to lowest.
+
+db["players"].find().sort({ salary: -1 })
+
+
+
+Question 3: Show all staff members in the Coaching Staff department.
+
+db["staff"].find({ "department.dept_name": "Coaching Staff" })
+
+
+
+Question 4: Show all home games with their opponent and score.
+
+db["games"].find({ home_away: "Home" })
+
+
+
+Question 5: Show all players who have at least one performance record.
+
+db["players"].find({ performances: { $ne: [] } })
+
+
+
+Question 6: Show all players who do not have any performance records yet.
+
+db["players"].find({ performances: { $size: 0 } })
+
+
+
+Question 7: Show all tickets that are still available or reserved.
+
+db["tickets"].find({ sale_status: { $in: ["Available", "Reserved"] } })
+
+
+
+Question 8: Show all merchandise items that have at least one sale recorded.
+
+db["merchandise"].find({ sales: { $ne: [] } })
+
+
+
+Question 9: Show all finance records with status "Pending".
+
+db["financeRecords"].find({ status: "Pending" })
+
+
+
+Question 10: Show all games played at Little Caesars Arena.
+
+db["games"].find({ "venue.venue_name": "Little Caesars Arena" })

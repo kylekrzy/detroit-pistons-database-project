@@ -1,0 +1,190 @@
+[
+  {
+    "_id": 601,
+    "game": {
+      "game_id": 403,
+      "game_date": "2025-10-26",
+      "opponent": "Boston Celtics"
+    },
+    "seat_num": "12",
+    "row_num": "A",
+    "section": "101",
+    "price": 145,
+    "purchase_date": "2025-10-18",
+    "purchaser": {
+      "fname": "John",
+      "lname": "Miller",
+      "email": "john.miller@email.com"
+    },
+    "ticket_type": "Standard",
+    "sale_status": "Sold"
+  },
+  {
+    "_id": 602,
+    "game": {
+      "game_id": 403,
+      "game_date": "2025-10-26",
+      "opponent": "Boston Celtics"
+    },
+    "seat_num": "13",
+    "row_num": "A",
+    "section": "101",
+    "price": 145,
+    "purchase_date": "2025-10-18",
+    "purchaser": {
+      "fname": "John",
+      "lname": "Miller",
+      "email": "john.miller@email.com"
+    },
+    "ticket_type": "Standard",
+    "sale_status": "Sold"
+  },
+  {
+    "_id": 603,
+    "game": {
+      "game_id": 404,
+      "game_date": "2025-10-27",
+      "opponent": "Cleveland Cavaliers"
+    },
+    "seat_num": "08",
+    "row_num": "F",
+    "section": "210",
+    "price": 95,
+    "purchase_date": "2025-10-21",
+    "purchaser": {
+      "fname": "Emily",
+      "lname": "Carter",
+      "email": "emily.carter@email.com"
+    },
+    "ticket_type": "Standard",
+    "sale_status": "Sold"
+  },
+  {
+    "_id": 604,
+    "game": {
+      "game_id": 405,
+      "game_date": "2025-10-29",
+      "opponent": "Orlando Magic"
+    },
+    "seat_num": "15",
+    "row_num": "D",
+    "section": "118",
+    "price": 110,
+    "purchase_date": "2025-10-23",
+    "purchaser": {
+      "fname": "Marcus",
+      "lname": "Reed",
+      "email": "marcus.reed@email.com"
+    },
+    "ticket_type": "Promo",
+    "sale_status": "Sold"
+  },
+  {
+    "_id": 605,
+    "game": {
+      "game_id": 406,
+      "game_date": "2025-11-01",
+      "opponent": "Dallas Mavericks"
+    },
+    "seat_num": "22",
+    "row_num": "C",
+    "section": "115",
+    "price": 120,
+    "purchase_date": null,
+    "purchaser": null,
+    "ticket_type": "Standard",
+    "sale_status": "Available"
+  },
+  {
+    "_id": 606,
+    "game": {
+      "game_id": 408,
+      "game_date": "2025-11-05",
+      "opponent": "Utah Jazz"
+    },
+    "seat_num": "09",
+    "row_num": "G",
+    "section": "214",
+    "price": 90,
+    "purchase_date": "2025-11-02",
+    "purchaser": {
+      "fname": "Tina",
+      "lname": "Lawson",
+      "email": "tina.lawson@email.com"
+    },
+    "ticket_type": "Standard",
+    "sale_status": "Sold"
+  },
+  {
+    "_id": 607,
+    "game": {
+      "game_id": 408,
+      "game_date": "2025-11-05",
+      "opponent": "Utah Jazz"
+    },
+    "seat_num": "18",
+    "row_num": "B",
+    "section": "102",
+    "price": 150,
+    "purchase_date": null,
+    "purchaser": null,
+    "ticket_type": "VIP",
+    "sale_status": "Reserved"
+  },
+  {
+    "_id": 608,
+    "game": {
+      "game_id": 403,
+      "game_date": "2025-10-26",
+      "opponent": "Boston Celtics"
+    },
+    "seat_num": "11",
+    "row_num": "E",
+    "section": "205",
+    "price": 85,
+    "purchase_date": "2025-10-19",
+    "purchaser": {
+      "fname": "Derek",
+      "lname": "White",
+      "email": "derek.white@email.com"
+    },
+    "ticket_type": "Standard",
+    "sale_status": "Sold"
+  },
+  {
+    "_id": 609,
+    "game": {
+      "game_id": 405,
+      "game_date": "2025-10-29",
+      "opponent": "Orlando Magic"
+    },
+    "seat_num": "06",
+    "row_num": "A",
+    "section": "100",
+    "price": 175,
+    "purchase_date": "2025-10-24",
+    "purchaser": {
+      "fname": "Olivia",
+      "lname": "Green",
+      "email": "olivia.green@email.com"
+    },
+    "ticket_type": "VIP",
+    "sale_status": "Sold"
+  },
+  {
+    "_id": 610,
+    "game": {
+      "game_id": 406,
+      "game_date": "2025-11-01",
+      "opponent": "Dallas Mavericks"
+    },
+    "seat_num": "25",
+    "row_num": "H",
+    "section": "220",
+    "price": 75,
+    "purchase_date": null,
+    "purchaser": null,
+    "ticket_type": "Standard",
+    "sale_status": "Available"
+  }
+]
