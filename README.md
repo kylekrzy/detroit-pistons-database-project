@@ -19,4 +19,4 @@ This project is a database application layer for the Detroit Pistons organizatio
 2. Import `tables.sql`
 3. Import `data.sql`
 4. Place the project folder in `htdocs`
-5. Visit `http://localhost:8888/detroit-pistons-database-project/`
+5. Visit `http://localhost:8888/detroit-pistons-database-project/app/`
